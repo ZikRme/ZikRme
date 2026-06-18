@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:061226,30:0A2540,70:1B4F8C,100:2E86DE&amp;height=260&amp;section=header&amp;text=ZikRme&amp;fontSize=90&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=India%27s%20Smart%20Travel%20%26%20Lifestyle%20Platform&amp;descAlignY=65&amp;descSize=22&amp;descColor=5DD9E8&amp;stroke=5DD9E8&amp;strokeWidth=2&amp;animation=fadeIn" width="100%" alt="ZikRme"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=F5A623&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;lines=Building+the+Future+of+Seamless+Mobility;Hotels+%C2%B7+Cabs+%C2%B7+Restaurants+%C2%B7+Adventures;India%27s+All-in-One+Travel+%26+Lifestyle+Platform;Connecting+Travelers+with+the+Best+of+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
