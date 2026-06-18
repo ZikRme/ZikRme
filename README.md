@@ -274,7 +274,7 @@ Let travelers find your venue, check availability and book tickets before they a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E86DE,40:1B4F8C,100:061226&amp;height=150&amp;section=footer&amp;text=Built+for+Bharat+%F0%9F%87%AE%F0%9F%87%B3&amp;fontSize=24&amp;fontColor=5DD9E8&amp;fontAlignY=65&amp;animation=fadeIn" width="100%" alt="ZikRme Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E86DE,40:1B4F8C,100:061226&amp;height=150&amp;section=footer&amp;text=Built+for+India+%F0%9F%87%AE%F0%9F%87%B3&amp;fontSize=24&amp;fontColor=5DD9E8&amp;fontAlignY=65&amp;animation=fadeIn" width="100%" alt="ZikRme Footer"/>
 
 <sub><b>© 2026 ZikRme &nbsp;·&nbsp; India's Smart Travel & Lifestyle Platform &nbsp;·&nbsp; All Rights Reserved</b></sub>
 
