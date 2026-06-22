@@ -78,7 +78,7 @@ We're bringing together everything you need for a journey — **hotels, cabs, re
 <br/><br/>
 <sub>Travel blog & content — stories, guides & field dispatches from across India.</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Status-Building-F5A623?style=flat-square&amp;labelColor=0A2540"/>
+<img src="https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square&amp;labelColor=0A2540"/>
 <br/>
 </td>
 <td align="center" width="25%">
@@ -117,7 +117,7 @@ We're bringing together everything you need for a journey — **hotels, cabs, re
 <th align="left">Details</th>
 </tr>
 <tr><td>&nbsp;Main Platform — Coming Soon Page</td><td align="center"><img src="https://img.shields.io/badge/✅-Live-2ea44f?style=flat-square"/></td><td>Hero, early access system, offer tiers, footer</td></tr>
-<tr><td>&nbsp;ZikRme Journal — Coming Soon Page</td><td align="center"><img src="https://img.shields.io/badge/✅-Live-2ea44f?style=flat-square"/></td><td>Blog landing, postcard theme, notify form</td></tr>
+<tr><td>&nbsp;ZikRme Blog </td><td align="center"><img src="https://img.shields.io/badge/✅-Live-2ea44f?style=flat-square"/></td><td>Blog landing, postcard theme, notify form</td></tr>
 <tr><td>&nbsp;Business Partner Listing Form</td><td align="center"><img src="https://img.shields.io/badge/✅-Live-2ea44f?style=flat-square"/></td><td>7-section smart form, KYC & payout capture</td></tr>
 <tr><td>&nbsp;Email Automation — All 3 Flows</td><td align="center"><img src="https://img.shields.io/badge/✅-Live-2ea44f?style=flat-square"/></td><td>Accounts + Newsletter + Partner — user & admin</td></tr>
 <tr><td>&nbsp;Hotel & Stay Booking Engine</td><td align="center"><img src="https://img.shields.io/badge/🔨-Building-F5A623?style=flat-square"/></td><td>Live inventory, room types, availability & booking</td></tr>
